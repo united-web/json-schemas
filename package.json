@@ -1,0 +1,24 @@
+{
+  "name": "@united-web/json-schemas",
+  "version": "1.0.0",
+  "description": "Popular JSON Schemas in the Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/united-web/json-schemas.git"
+  },
+  "keywords": [
+    "JSON",
+    "Schema",
+    "validation"
+  ],
+  "author": "Slava Belaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/united-web/json-schemas/issues"
+  },
+  "homepage": "https://github.com/united-web/json-schemas#readme"
+}

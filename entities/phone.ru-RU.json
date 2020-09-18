@@ -1,0 +1,4 @@
+{
+  "$ref": "https://raw.githubusercontent.com/united-web/json-schemas/master/entities/phone.json",
+  "title": "Мобильный телефон"
+}

@@ -1,0 +1,4 @@
+{
+  "$ref": "https://raw.githubusercontent.com/united-web/json-schemas/master/entities/reserve-officer-id.json",
+  "title": "Военный билет офицера запаса"
+}

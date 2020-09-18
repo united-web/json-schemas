@@ -1,0 +1,10 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/united-web/json-schemas/master/entities/saylor-id.json",
+  "type": "string",
+  "title": "Seafarer's Identity Card",
+  "pattern": "^[А-ЯЁ]{2} [0-9]{6,7}$",
+  "minLength": 9,
+  "maxLength": 10,
+  "examples": ["ББ 123456", "ББ 0123456"]
+}
