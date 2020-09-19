@@ -1,0 +1,4 @@
+{
+  "$ref": "https://raw.githubusercontent.com/united-web/json-schemas/master/src/temporary-id-rf.json",
+  "title": "Временное удостоверение личности гражданина РФ"
+}

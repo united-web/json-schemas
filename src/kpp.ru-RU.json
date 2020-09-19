@@ -1,0 +1,5 @@
+{
+  "$ref": "https://raw.githubusercontent.com/united-web/json-schemas/master/src/kpp.json",
+  "title": "КПП",
+  "description": "Код причины постановки на учет"
+}

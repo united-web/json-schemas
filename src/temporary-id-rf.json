@@ -1,0 +1,7 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/united-web/json-schemas/master/src/temporary-id-rf.json",
+  "type": "string",
+  "title": "Temporary identity card of a citizen of the Russian Federation",
+  "maxLength": 25
+}

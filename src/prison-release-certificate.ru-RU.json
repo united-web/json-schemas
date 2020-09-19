@@ -1,0 +1,4 @@
+{
+  "$ref": "https://raw.githubusercontent.com/united-web/json-schemas/master/src/prison-release-certificate.json",
+  "title": "Справка об освобождении из мест лишения свободы"
+}

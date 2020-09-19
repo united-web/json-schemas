@@ -1,6 +1,6 @@
 {
   "name": "@united-web/json-schemas",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Popular JSON Schemas in the Web",
   "main": "index.js",
   "scripts": {

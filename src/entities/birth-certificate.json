@@ -1,7 +1,0 @@
-{
-  "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://raw.githubusercontent.com/united-web/json-schemas/master/entities/birth-certificate.json",
-  "type": "string",
-  "title": "Birth certificate",
-  "maxLength": 25
-}

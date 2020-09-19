@@ -1,8 +1,0 @@
-{
-  "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://raw.githubusercontent.com/united-web/json-schemas/master/entities/prison-release-certificate.json",
-  "type": "string",
-  "title": "Certificate of release from prison",
-  "maxLength": 25,
-  "examples": ["012345"]
-}

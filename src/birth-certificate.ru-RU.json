@@ -1,0 +1,4 @@
+{
+  "$ref": "https://raw.githubusercontent.com/united-web/json-schemas/master/src/birth-certificate.json",
+  "title": "Свидетельство о рождении"
+}

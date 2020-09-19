@@ -1,0 +1,7 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/united-web/json-schemas/master/src/other-id.json",
+  "type": "string",
+  "title": "Other documents",
+  "maxLength": 25
+}
