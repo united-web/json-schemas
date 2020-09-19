@@ -1,5 +1,5 @@
 {
-  "$ref": "https://raw.githubusercontent.com/united-web/json-schemas/master/entities/ids/ogrn.json",
+  "$ref": "https://raw.githubusercontent.com/united-web/json-schemas/master/entities/ogrn.json",
   "title": "ОГРН",
   "description": "Основной государственный регистрационный номер"
 }

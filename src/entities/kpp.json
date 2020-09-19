@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://raw.githubusercontent.com/united-web/json-schemas/master/entities/ids/kpp.json",
+  "$id": "https://raw.githubusercontent.com/united-web/json-schemas/master/entities/kpp.json",
   "type": "string",
   "title": "RRC",
   "description": "Registration reason code",
