@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft-07/schema",
+  "title": "Адрес",
+  "properties": {
+    "country": {
+      "$ref": "country.json"
+    },
+    "postIndex": {
+      "title": "Почтовый индекс",
+      "type": "string"
+    },
+    "region": {
+      "$ref": "region.json"
+    },
+    "city": {
+      "title": "Город",
+      "type": "string"
+    },
+    "administrativeDivision": {
+      "title": "Административное деление",
+      "properties": {
+        "type": {
+          "$ref": "administrative-division-type.json"
+        },
+        "name": {
+          "title": "Наименование",
+          "type": "string"
+        }
+      }
+    },
+    "locality": {
+      "title": "Населенный пункт",
+      "properties": {
+        "type": {
+          "title": "Тип",
+          "$ref": "locality-type.json"
+        },
+        "name": {
+          "title": "Наименование",
+          "type": "string"
+        }
+      }
+    },
+    "street": {
+      "title": "Улица",
+      "properties": {
+        "type": {
+          "title": "Тип",
+          "$ref": "street-type.json"
+        },
+        "name": {
+          "title": "Улица",
+          "type": "string"
+        },
+        "house": {
+          "title": "Дом",
+          "type": "string"
+        },
+        "building": {
+          "title": "Корпус",
+          "type": "string"
+        },
+        "flat": {
+          "title": "Квартира",
+          "type": "string"
+        }
+      }
+    },
+    "contacts": {
+      "title": "Контактные данные",
+      "properties": {
+        "phone": {
+          "title": "Телефон",
+          "type": "string",
+          "format": "tel"
+        }
+      }
+    }
+  }
+}
